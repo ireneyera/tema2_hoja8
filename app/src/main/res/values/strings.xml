@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">tema2_hoja8</string>
+    <string name="action_settings">Settings</string>
+    <string name="exercise1">Ejercicio1</string>
+    <string name="exercise2">Ejercicio2</string>
+    <string name="exercise3">Ejercicio 3</string>
+    <string name="enableDisable">Habilitar receptor</string>
+    <string name="exercise4">Ejercicio 4</string>
+    <string name="buttonEj6">Envia broadcast</string>
+    <string name="exercise6">Ejercicio 6</string>
+</resources>

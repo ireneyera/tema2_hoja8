@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="arey.es.tema2_hoja8.MainActivity">
+
+
+    <item
+        android:id="@+id/exercise2"
+        android:title="@string/exercise2" />
+
+    <item android:title="@string/exercise3"
+        android:id="@+id/exercise3" />
+
+    <item
+        android:id="@+id/exercise4"
+        android:title="@string/exercise4" />
+
+    <item
+        android:id="@+id/exercise6"
+        android:title="@string/exercise6" />
+</menu>
